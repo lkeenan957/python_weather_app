@@ -1,0 +1,9 @@
+{
+  "openweathermap": {
+    "apikey": "859fba06ba01dae80d85e9cd8fb5ab16",
+    "refresh": 60,
+    "locations": [
+      "Los Angeles", "San Francisco", "New York"
+    ]
+  }
+}
